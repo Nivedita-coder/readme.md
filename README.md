@@ -12,6 +12,10 @@ offboarding, operations, and more.
   
   ## Important Governance Documentation.
   
+  - [governance.md]
+  - [sig-governanace.md]
+  - [wg-governanace.md]
+  
   [Code of Conduct]
   - conduct@kubernetes.io if you need anything from them or to report
   - may have training or guidance - ask!
@@ -55,3 +59,8 @@ offboarding, operations, and more.
 [code of conduct]: https://github.com/kubernetes/community/tree/master/committee-code-of-conduct
 [mentoring, succession planning, and staffing]: https://github.com/kubernetes/community/tree/master/mentoring
 [Kubernetes values]: https://github.com/kubernetes/community/blob/master/values.md
+[governance.md]: https://github.com/kubernetes/community/blob/master/governance.md
+[sig-governanace.md]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-governance.md
+[wg-governanace.md]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/wg-governance.md
+
+
