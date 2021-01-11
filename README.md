@@ -35,7 +35,7 @@ offboarding, operations, and more.
   ## Community Programs
   
   ### Mentoring
-        - SIG/WG determines need
+     - SIG/WG determines need
      - Consults with sig-contribex; contribex sets up infra (slack channel; TODO build this out)
      - Posts a note to their mailing list and k-dev that they are looking for more
        reviewers/approvers/x_role and would like to form a group to mentor who are
