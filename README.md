@@ -34,7 +34,7 @@ offboarding, operations, and more.
   
   ## Community Programs
   
-- Mentoring, succession planning, and staffing - TODO
+- Mentoring, succession planning, and staffing
 - Resources from SIG Contributor Experience
   - Swag
     - The Project can provide you with K8s tshirts, stickers, and other
@@ -57,7 +57,7 @@ offboarding, operations, and more.
 [values]: https://github.com/kubernetes/community/blob/master/values.md
 [Governance Principles]: https://github.com/kubernetes/community/blob/master/governance.md#principles
 [code of conduct]: https://github.com/kubernetes/community/tree/master/committee-code-of-conduct
-[mentoring, succession planning, and staffing]: https://github.com/kubernetes/community/tree/master/mentoring
+[Mentoring, succession planning, and staffing]: https://github.com/kubernetes/community/tree/master/mentoring
 [Kubernetes values]: https://github.com/kubernetes/community/blob/master/values.md
 [governance.md]: https://github.com/kubernetes/community/blob/master/governance.md
 [sig-governanace.md]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-governance.md
