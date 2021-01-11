@@ -34,7 +34,7 @@ offboarding, operations, and more.
   
   ## Community Programs
   
-- Mentoring, succession planning, and staffing
+- [Mentoring, succession planning, and staffing]
 - Resources from SIG Contributor Experience
   - Swag
     - The Project can provide you with K8s tshirts, stickers, and other
