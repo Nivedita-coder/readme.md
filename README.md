@@ -8,6 +8,8 @@ offboarding, operations, and more.
   * 2nd Tuesday of the Month 12:30pm PT [830pmUTC].
   * 2nd Thursday of the Month 09:00am PT [5pmUTC].
   
+
+  
   ## Important Governance Documentation.
   
   [Code of Conduct]
@@ -51,4 +53,5 @@ offboarding, operations, and more.
 [values]: https://github.com/kubernetes/community/blob/master/values.md
 [principles]: https://github.com/kubernetes/community/blob/master/governance.md#principles
 [code of conduct]: https://github.com/kubernetes/community/tree/master/committee-code-of-conduct
-[mentoring, succession planning, and staffing]: https://github.com/kubernetes/community/tree/master/mentoring 
+[mentoring, succession planning, and staffing]: https://github.com/kubernetes/community/tree/master/mentoring
+[Kubernetes values]: https://github.com/kubernetes/community/blob/master/values.md
