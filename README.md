@@ -8,8 +8,8 @@ offboarding, operations, and more.
 In case you are not sure what to include in a meeting invite, here is a [Calendar template](https://github.com/kubernetes/community/blob/master/communication/calendar-guidelines.md#calendar-event-template).
 
 Time:
-2nd Tuesday of the Month 12:30pm PT [830pmUTC].
-2nd Thursday of the Month 09:00am PT [5pmUTC].
+* 2nd Tuesday of the Month 12:30pm PT [830pmUTC]
+* 2nd Thursday of the Month 09:00am PT [5pmUTC]
   
   ## Important Governance Documentation.
   
